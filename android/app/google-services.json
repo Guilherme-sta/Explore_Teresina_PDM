@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "649101237440",
+    "project_id": "login-e-cad",
+    "storage_bucket": "login-e-cad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649101237440:android:37b8c6bcc1b0521dc1e125",
+        "android_client_info": {
+          "package_name": "com.example.trabalho_final_pdm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649101237440-csj2m5vgjip024u0be7jdm6m8fn80hgi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trabalho_final_pdm",
+            "certificate_hash": "94b2176a96bfbf1a9340ecb4d81e19b82767d198"
+          }
+        },
+        {
+          "client_id": "649101237440-c5hd62b370j5mtrlosast0qclmmtp4tl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO_lYO6xjl4EF2rCLm3FEEU_sFr9kXIMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649101237440-c5hd62b370j5mtrlosast0qclmmtp4tl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "649101237440-hk9qc95nr31kuhtur7saf3uvv7s72i8a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.trabalhoFinalPdm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

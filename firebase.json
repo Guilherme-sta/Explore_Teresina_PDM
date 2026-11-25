@@ -1,0 +1,30 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "login-e-cad",
+          "appId": "1:649101237440:android:37b8c6bcc1b0521dc1e125",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "login-e-cad",
+          "configurations": {
+            "android": "1:649101237440:android:37b8c6bcc1b0521dc1e125",
+            "ios": "1:649101237440:ios:196979e150693822c1e125",
+            "web": "1:649101237440:web:67094da5f74848b4c1e125",
+            "windows": "1:649101237440:web:238d9d735e6f0ba5c1e125"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "database": "(default)",
+    "location": "southamerica-east1",
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  }
+}
